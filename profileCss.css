@@ -1,0 +1,16 @@
+<style>
+.jumbotron{
+    margin-top: 10px;
+}
+tr:hover{
+	background-color:#e57373;
+}
+   th{
+   	background-color: #37474F;
+color: #F8F8FF;
+   	} 
+   	tbody{
+   		color: #800000;
+   		font-size: 20px !important;
+   		}   
+   		 </style>
